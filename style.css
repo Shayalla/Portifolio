@@ -1,0 +1,31 @@
+#meuNome {
+    font-family: fantasy, sans-serif;
+    text-align: center;
+  }
+
+  #eu {
+    font-family: monospace, sans-serif;
+    width: 300px;
+    padding-bottom: 110px;
+  }
+
+  body {
+    background-color: rgb(137, 166, 251);
+  }
+
+  strong, em {
+    text-decoration: underline;
+    font-size: 16px;
+  }
+
+  img {
+      width: 100px;
+      float: left;
+      padding: 7px;
+      background-color: blueviolet;
+      margin-right: 20px;
+  }
+
+  .impar {
+      background-color: violet;
+  }
